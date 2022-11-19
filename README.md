@@ -43,4 +43,5 @@ class Solution {
 
 ```
 Time Complexity : O(Number of nodes)
+
 Space Complexity : O(Depth of binary tree)
